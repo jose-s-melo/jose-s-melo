@@ -101,16 +101,16 @@ Estudante
 <img
   align="left"
   alt="Github Stats"
-  height="200"
+  height="160"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=ryan-de-melo&show_icons=true&theme=tokyonight"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryan-de-melo&theme=nord_dark"
 />
 
 <img 
   align="left"
   alt="Github Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-de-melo&layout=compact&custom_title=Tecnologias&langs_count=9"
+  height="160"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryan-de-melo&theme=nord_dark"
   />
 
 

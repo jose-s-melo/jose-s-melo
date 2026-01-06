@@ -101,7 +101,7 @@ Estudante
 <img
   align="left"
   alt="Github Stats"
-  height="160"
+  height="140"
   style="padding-right: 10px;"
   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryan-de-melo&theme=nord_dark"
 />
@@ -109,7 +109,7 @@ Estudante
 <img 
   align="left"
   alt="Github Stats"
-  height="160"
+  height="140"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryan-de-melo&theme=nord_dark"
   />
 

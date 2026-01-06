@@ -110,7 +110,7 @@ Estudante
   align="left"
   alt="Github Stats"
   height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&custom_title=Tecnologias&langs_count=9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-de-melo&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 

@@ -1,8 +1,15 @@
-## 👨‍💻 Ryan Melo
+## 👨‍💻 José Melo
 
 **`Junior Dev`**
 
-Estudante
+I'm a **Computer Science student @ Federal University of Campina Grande** and a Junior Backend Developer focused on building
+robust and scalable applications using **Java** and **Spring Boot**.
+
+I have a strong interest in backend development, APIs, and relational databases, 
+and I enjoy learning how to design clean, maintainable, and secure systems. I'm 
+constantly improving my skills by working on personal projects and studying modern 
+backend technologies and best practices.
+
 
 ---
 
@@ -103,14 +110,14 @@ Estudante
   alt="Github Stats"
   height="140"
   style="padding-right: 10px;"
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryan-de-melo&theme=nord_dark"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jose-s-melo&theme=nord_dark"
 />
 
 <img 
   align="left"
   alt="Github Stats"
   height="140"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryan-de-melo&theme=nord_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-s-melo&theme=nord_dark"
   />
 
 

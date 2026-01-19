@@ -13,7 +13,7 @@ backend technologies and best practices.
 
 ---
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -101,7 +101,7 @@ backend technologies and best practices.
 <br/>
 <br/>
 
-### Estatísticas
+### Statistics
 
 <p>
 

@@ -21,8 +21,9 @@ backend technologies and best practices.
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://skillicons.dev/icons?i=java" 
 />
+
 <img 
     align="left" 
     alt="Spring Boot"

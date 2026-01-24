@@ -15,6 +15,13 @@ backend technologies and best practices.
 
 ### Languages ​​and Technologies
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,redis,ts,react,tailwind,git" width="700px"/>
+  </a>
+</p>
+
+<!--
 <img 
     align="left" 
     alt="Java"
@@ -30,7 +37,7 @@ backend technologies and best practices.
     title="Spring Boot" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://skillicons.dev/icons?i=java" 
 />
 <img 
     align="left" 
@@ -98,9 +105,7 @@ backend technologies and best practices.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-
-<br/>
-<br/>
+-->
 
 ---
 

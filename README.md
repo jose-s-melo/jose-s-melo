@@ -2,7 +2,7 @@
 
 **`Junior Dev`**
 
-I'm a **Computer Science student @ Federal University of Campina Grande** and a Junior Backend Developer focused on building
+I'm a **Computer Science student** @ [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/) and a Junior Backend Developer focused on building
 robust and scalable applications using **Java** and **Spring Boot**.
 
 I have a strong interest in backend development, APIs, and relational databases, 

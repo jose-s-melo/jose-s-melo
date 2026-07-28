@@ -10,14 +10,13 @@ and I enjoy learning how to design clean, maintainable, and secure systems. I'm
 constantly improving my skills by working on personal projects and studying modern 
 backend technologies and best practices.
 
-
 ---
 
 ### Languages ​​and Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,redis,ts,react,tailwind,git" width="700px"/>
+    <img src="https://skillicons.dev/icons?i=java,python,spring,docker,postgres,redis,ts,react" width="700px"/>
   </a>
 </p>
 

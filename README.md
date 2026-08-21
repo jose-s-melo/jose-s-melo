@@ -2,23 +2,43 @@
 
 **`Junior Dev`**
 
-I'm a **Computer Science student** @ [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/) and a Junior Backend Developer focused on building
-robust and scalable applications using **Java** and **Spring Boot**.
+I'm a **Computer Science student** @ [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/) and a Junior Developer with a focus on software engineering.
 
-I have a strong interest in backend development, APIs, and relational databases, 
-and I enjoy learning how to design clean, maintainable, and secure systems. I'm 
-constantly improving my skills by working on personal projects and studying modern 
-backend technologies and best practices.
+I build robust, scalable, and maintainable applications using Java, Spring Boot, and relational databases, 
+with a particular interest in API design, software architecture, distributed systems, and backend engineering.
+
+I'm currently expanding my knowledge in Python, Machine Learning, and AI engineering, with a focus on tools and 
+frameworks such as Scikit-learn, LangChain, and vector databases. I'm particularly interested in recommendation 
+systems, and Retrieval-Augmented Generation (RAG), exploring how machine learning and modern AI techniques can
+be applied to build practical and scalable software systems.
 
 ---
 
 ### Languages ​​and Technologies
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,docker,postgres,redis,ts,react" width="700px"/>
+    <img src="https://skillicons.dev/icons?i=java,python,spring,docker,postgres,redis,ts,react,sklearn" width="700px"/>
   </a>
 </p>
+
+### Contact
+
+<div align="center">
+  <a href="mailto:jose.ryan.santos.de.melo@ccc.ufcg.edu.br">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333">
+  </a>
+  <a href="https://www.linkedin.com/in/jose-s-melo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/jowsemelo" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://willbeadd" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</div>
+
 
 <!--
 <img 
